@@ -11,8 +11,8 @@ This repository contains my notes, practice problems, code snippets, and mini-pr
 
 ## 🧠 Topics Covered (so far)
 
-- [x] Go setup
-- [x] Hello World
+- [x] [Go Installation](000-go-installation/steps.md)
+- [x] [Hello World](001-hello-world/explanation.md)
 - [ ] Basics (variables, types, functions)
 - [ ] Control structures (if, for, switch)
 - [ ] Structs and Interfaces
