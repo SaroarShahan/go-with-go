@@ -11,8 +11,6 @@ This repository contains my notes, practice problems, code snippets, and mini-pr
 
 ## 🧠 Topics Covered (so far)
 
-## 🧠 Topics Covered (so far)
-
 - [x] Go setup
 - [x] Hello World
 - [ ] Basics (variables, types, functions)
