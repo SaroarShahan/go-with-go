@@ -21,3 +21,14 @@ This repository contains my notes, practice problems, code snippets, and mini-pr
 - Standard library tools
 - Projects and practice problems
 
+## 🤝 Contributions
+
+This is a personal learning repo, but feel free to explore, clone, or suggest improvements!
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+Happy Coding! 😊
