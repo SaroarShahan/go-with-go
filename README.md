@@ -11,15 +11,19 @@ This repository contains my notes, practice problems, code snippets, and mini-pr
 
 ## 🧠 Topics Covered (so far)
 
-- Basics (variables, types, functions)
-- Control structures (if, for, switch)
-- Structs and Interfaces
-- Error handling
-- Goroutines and Channels (Concurrency)
-- Packages and Modules
-- File I/O
-- Standard library tools
-- Projects and practice problems
+## 🧠 Topics Covered (so far)
+
+- [x] Go setup
+- [x] Hello World
+- [ ] Basics (variables, types, functions)
+- [ ] Control structures (if, for, switch)
+- [ ] Structs and Interfaces
+- [ ] Error handling
+- [ ] Goroutines and Channels (Concurrency)
+- [ ] Packages and Modules
+- [ ] File I/O
+- [ ] Standard library tools
+- [ ] Projects and practice problems
 
 ## 🤝 Contributions
 
