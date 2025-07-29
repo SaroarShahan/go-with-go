@@ -40,4 +40,7 @@ export PATH=$PATH:/usr/local/go/bin
 source ~/.zshrc  # or source ~/.bash_profile or source ~/.bashrc    
 ```
 
+## 🎉 Congratulations!
+You’ve successfully installed Go on your machine. Happy coding! 🔥
+
 [🚀 Run Your First "Hello, World!" Program](../001-hello-world/explanation.md)
