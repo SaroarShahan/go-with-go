@@ -1,4 +1,4 @@
-# ✅ How to Install Go (Golang) on macOS
+# How to Install Go (Golang) on macOS
 
 ## 📦 Step 1: Download the Go Installer
 
@@ -23,12 +23,12 @@ Open your Terminal and run:
 ```bash
 go version
 ```
-✅ You should see something like:
+You should see something like:
 ```bash
 go version go1.x.x darwin/arm64
 ```
 
-⚙️ (Optional) Step 4: Set Go Environment Variables
+Step 4: Set Go Environment Variables (optional)
 
 - If Go is installed in /usr/local/go, add the following to your shell config (~/.zshrc, ~/.bash_profile, or ~/.bashrc):
 
