@@ -13,8 +13,8 @@ This repository contains my notes, practice problems, code snippets, and mini-pr
 
 - [x] [Go Installation](000-go-installation/steps.md)
 - [x] [Hello World](001-hello-world/explanation.md)
-- [ ] Basics (variables, types, functions)
-- [ ] Control structures (if, for, switch)
+- [ ] Basics (variables, types)
+- [x] [Control structures (if, for, switch, functions)](004-control-structure/theory.md)
 - [ ] Structs and Interfaces
 - [ ] Error handling
 - [ ] Goroutines and Channels (Concurrency)
